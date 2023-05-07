@@ -11,4 +11,4 @@ datadog
 kubernetes
 prometheus
 grafana
-cloud (AWS/AZURE/GCP/IBM/etc....)
+shellscript, Linuxcommands, YAML etc...
