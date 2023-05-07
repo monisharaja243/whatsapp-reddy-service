@@ -12,3 +12,4 @@ kubernetes
 prometheus
 grafana
 shellscript, Linuxcommands, YAML etc...
+CLOUD AWS
