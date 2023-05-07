@@ -1,0 +1,14 @@
+git
+maven
+jenkins
+sonar
+jfrog
+terraform
+ansible 
+docker
+Bitbucket
+datadog
+kubernetes
+prometheus
+grafana
+cloud (AWS/AZURE/GCP/IBM/etc....)
